@@ -1,3 +1,6 @@
+# Forked from mykar
+This code was forked from mykar, it will serve as the basis for the helper functions for the ha-display
+
 # kiosk-mode
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg)](https://github.com/custom-components/hacs) [![hacs_badge](https://img.shields.io/badge/Buy-Me%20a%20Coffee-critical)](https://www.buymeacoffee.com/FgwNR2l)
